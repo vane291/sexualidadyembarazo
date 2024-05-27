@@ -1,0 +1,16 @@
+body{
+    background:#c05392;
+    }
+    img{
+        
+        width: 100%;
+        height:50%
+    }
+    h1 {
+        color:    rgb(0, 0, 0);
+        font-size: 30px;
+    }           
+    h2{ 
+        background-color: rgb(5, 5, 5);
+      
+    }
